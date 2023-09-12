@@ -1,8 +1,8 @@
-## 🌕 About hanetsuki
-Hi, I'm an Front and Backend engineer. 🤝
+## 🌕 About RSaiga
+Hi, I'm an Front and Backend engineer. 
 
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,nodejs,react,nextjs,gatsbyjs,vue,astro,sass,tailwind,vite,webpack,supabase,firebase,vercel,netlify,aws,git,github,githubactions,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,js,ts,nodejs,rust,go,php,py,kotlin,dart,react,spring,nextjs,nestjs,vercel,vite,flutter,fastapi,flask,laravel,gradle,maven,jest,gherkin,aws,gcp,azure,git,github,githubactions" />
 
 
 ## 📈 Status
