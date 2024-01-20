@@ -8,13 +8,6 @@ Hi, I'm an Front and Backend engineer.
 
 
 ## 📈 Status
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RSaiga&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RSaiga&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RSaiga&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RSaiga&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RSaiga&theme=github_dark&utcOffset=9)
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSaiga&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Rsaiga" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RSaiga&margin-w=5)](https://github.com/RSaiga/)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RSaiga&theme=highcontrast)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RSaiga&theme=highcontrast) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RSaiga&theme=highcontrast)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RSaiga&theme=highcontrast) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RSaiga&theme=highcontrast&utcOffset=9)
