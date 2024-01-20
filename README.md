@@ -8,7 +8,7 @@ Hi, I'm an Front and Backend engineer.
 
 
 ## 📈 Status
-![]([https://komarev.com/ghpvc/?username=RSaiga&color=yellowgreen](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RSaiga&theme=github_dark))
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RSaiga&theme=github_dark)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSaiga&layout=compact&show_icons=true" />
