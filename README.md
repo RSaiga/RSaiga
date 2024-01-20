@@ -4,7 +4,7 @@ Hi, I'm an Front and Backend engineer.
 ![](https://komarev.com/ghpvc/?username=RSaiga&color=yellowgreen)
 
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,js,ts,nodejs,rust,go,php,py,kotlin,dart,react,spring,nextjs,nestjs,vercel,vite,flutter,fastapi,flask,laravel,gradle,maven,jest,gherkin,aws,gcp,azure,git,github,githubactions" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=java,js,ts,nodejs,rust,go,php,py,kotlin,dart,react,spring,nextjs,nestjs,vercel,vite,flutter,fastapi,flask,laravel,gradle,maven,jest,gherkin,aws,gcp,azure,git,github,githubactions" />
 
 
 ## 📈 Status
